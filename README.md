@@ -12,9 +12,9 @@
 ## 🧑‍💻 About Me
 
 - 🎯 Software Engineer at [Kore.ai](https://www.kore.ai/)
-- 🌐 Passionate about building scalable,high performance and intelligent systems.
+- 🌐 Passionate about building scalable, high performance and intelligent systems.
 - 🎨 Enthusiastic about designing systems and architecture
-- 🎶 Music lover and creative thinker
+- 🎶 Hobbies: Music, Gaming, Swimming
 - 📍 Based in Hyderabad, India
 
 ---
@@ -74,9 +74,10 @@
 
 ## 🤝 Let's Connect
 
-I'm always open to collaborating on exciting projects or discussing innovative ideas. Feel free to reach out!
+I'm always open to collaborating on exciting projects or discussing innovative ideas or just a friendly chat. Feel free to reach out through any of my social media platforms!
 
-- 📫 [LinkedIn](https://www.linkedin.com/in/soumodipta-bose-663883117/)
+- [<img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>](https://www.linkedin.com/in/soumodipta-bose-663883117/)
+- [<img src="https://img.shields.io/badge/-Steam-171a21?style=flat&logo=steam&logoColor=white" alt="Steam"/>](https://steamcommunity.com/profiles/76561198282477226/)
 
 ---
 
