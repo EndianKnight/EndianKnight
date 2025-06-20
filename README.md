@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Soumodipta Bose (aka EndianKnight)</h1>
+<h1 align="center">Hello there  traveller👋</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=EndianKnight&label=Profile%20views&color=0e75b6&style=flat" alt="EndianKnight" />
@@ -78,6 +78,7 @@ I'm always open to collaborating on exciting projects or discussing innovative i
 
 - [<img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>](https://www.linkedin.com/in/soumodipta-bose-663883117/)
 - [<img src="https://img.shields.io/badge/-Steam-171a21?style=flat&logo=steam&logoColor=white" alt="Steam"/>](https://steamcommunity.com/profiles/76561198282477226/)
+- [<img src="https://img.shields.io/badge/-PlayStation-003791?style=flat&logo=playstation&logoColor=white" alt="PlayStation"/>](https://psnprofiles.com/EndianKnight)
 
 ---
 
