@@ -1,12 +1,17 @@
 <h1 align="center">Hello there  traveller👋</h1>
 
-<p align="center">
+<div align="center">
   <img src="imgs/dark_souls.gif" alt="Dark Souls" />
+</div>
+
+<br>
+
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=EndianKnight&label=Profile%20views&color=0e75b6&style=flat" alt="EndianKnight" />
   <a href="https://github.com/EndianKnight?tab=followers">
     <img src="https://img.shields.io/github/followers/EndianKnight?label=Followers&style=social" alt="GitHub Followers" />
   </a>
-</p>
+</div>
 
 ---
 
