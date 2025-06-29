@@ -1,6 +1,7 @@
 <h1 align="center">Hello there  traveller👋</h1>
 
 <p align="center">
+  <img src="imgs/dark_souls.gif" alt="Dark Souls" />
   <img src="https://komarev.com/ghpvc/?username=EndianKnight&label=Profile%20views&color=0e75b6&style=flat" alt="EndianKnight" />
   <a href="https://github.com/EndianKnight?tab=followers">
     <img src="https://img.shields.io/github/followers/EndianKnight?label=Followers&style=social" alt="GitHub Followers" />
@@ -14,7 +15,7 @@
 - 🎯 Software Engineer at [Kore.ai](https://www.kore.ai/)
 - 🌐 Passionate about building scalable, high performance and intelligent systems.
 - 🎨 Enthusiastic about designing systems and architecture
-- 🎶 Hobbies: Music, Gaming, Swimming
+- 🎮 Hobbies: Music, Gaming, Anime, Swimming
 - 📍 Based in Hyderabad, India
 
 ---
@@ -40,6 +41,7 @@
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Socket.io](https://img.shields.io/badge/-Socket.io-010101?style=flat&logo=socket.io&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
 
 ### Technologies
@@ -82,4 +84,4 @@ I'm always open to collaborating on exciting projects or discussing innovative i
 
 ---
 
-*“Git good and lvl up”*
+*“Get good and lvl up”* ~ True as in life and Dark Souls
