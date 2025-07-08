@@ -85,7 +85,7 @@ I'm always open to collaborating on exciting projects or discussing innovative i
 
 - [<img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>](https://www.linkedin.com/in/soumodipta-bose-663883117/)
 - [<img src="https://img.shields.io/badge/-Steam-171a21?style=flat&logo=steam&logoColor=white" alt="Steam"/>](https://steamcommunity.com/profiles/76561198282477226/)
-- [<img src="https://img.shields.io/badge/-PlayStation-003791?style=flat&logo=playstation&logoColor=white" alt="PlayStation"/>](https://psnprofiles.com/EndianKnight)
+- [<img src="https://img.shields.io/badge/-PlayStation-003791?style=flat&logo=playstation&logoColor=white" alt="PlayStation"/>](https://psnprofiles.com/EndianKnight?pf=ps5)
 
 ---
 
