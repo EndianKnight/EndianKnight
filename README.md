@@ -17,7 +17,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🎯 Software Engineer at [Kore.ai](https://www.kore.ai/)
+- 🎯 SDE II at [Amazon](https://www.amazon.com/)
 - 🌐 Passionate about building scalable, high performance and intelligent systems.
 - 🎨 Enthusiastic about designing systems and architecture
 - 🎮 Hobbies: Music, Gaming, Anime, Swimming
